@@ -18,8 +18,8 @@ The space_missions.csv file contains the data as provided by Maven Analytics. Wh
 <img src="rocket_icon.png" width="100"/>
 </div>
 
-**Tableau Viz:** https://public.tableau.com/views/SpaceMissions_16689698297630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+[Tableau Viz Link](https://public.tableau.com/views/SpaceMissions_16689698297630/Dashboard12?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <div>
-<img src="space_missions_dashboard.PNG" width="850"/>
+<img src="space_missions_dashboard.gif" width="800"/>
 </div>
